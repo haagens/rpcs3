@@ -1,5 +1,10 @@
 #pragma once
 
+enum 
+{
+ 	Z_CULL_ENABLE = 0x00041D84;
+};
+
 enum
 {
 	CELL_GCM_DISPLAY_HSYNC            = 1,
